@@ -7,4 +7,4 @@ Avaa selain
     Open Browser    http://localhost:8000/    firefox
     Maximize Browser Window
     Page Should Contain    React
-    # Close All Browsers
+    Close All Browsers
